@@ -11,14 +11,15 @@ Paste these files into the schema/types folder.
 In the index.js file inside the schema/types folder, import both schema files.
 
 
-ڈیٹا امپورٹ کرنے کے لیے:
 
-dataImport فولڈر میں جائیں اور VS کوڈ یا ٹرمینل کھولیں۔
-npm install کمانڈ چلائیں تاکہ تمام ضروری ڈپینڈنسیز انسٹال ہوجائیں۔
-importData.js فنکشن میں اپنے پروجیکٹ کا آئی ڈی اور ٹوکن شامل کریں۔
-آخر میں importData.js کمانڈ چلائیں، اور آپ کا ڈیٹا سینٹی پر اپ لوڈ ہوجائے گا۔
-اسکیمہ سیٹ کرنے کا طریقہ:
+Data import karne ke liye:
 
-دی گئی اسکیمہ فائلز کو اپنے پروجیکٹ میں شامل کریں۔
-ان فائلز کو schema/types فولڈر میں پیسٹ کریں۔
-schema/types فولڈر کے اندر موجود index.js فائل میں دونوں اسکیمہ فائلز کو امپورٹ کریں۔
+dataImport folder me jayein aur VS Code ya terminal open karein.
+npm install command chalayein takay saari zaruri dependencies install ho jayen.
+importData.js function me apne project ka ID aur token add karein.
+Aakhir me node importData.js command chalayein, aur apka data Sanity par upload ho jayega.
+Schema set karne ka tareeqa:
+
+Di gayi schema files ko apne project me include karein.
+Un files ko schema/types folder me paste karein.
+schema/types folder ke andar maujood index.js file me dono schema files ko import karein.
