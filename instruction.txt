@@ -1,0 +1,24 @@
+To import data:
+
+Navigate to the dataImport folder and open VS Code or the terminal.
+Run the npm install command to install all necessary dependencies.
+Add your project ID and token to the importData.js function.
+Finally, run the importData.js command, and your data will be uploaded to Sanity.
+To set up the schema:
+
+Take the provided schema files and add them to your project.
+Paste these files into the schema/types folder.
+In the index.js file inside the schema/types folder, import both schema files.
+
+
+ڈیٹا امپورٹ کرنے کے لیے:
+
+dataImport فولڈر میں جائیں اور VS کوڈ یا ٹرمینل کھولیں۔
+npm install کمانڈ چلائیں تاکہ تمام ضروری ڈپینڈنسیز انسٹال ہوجائیں۔
+importData.js فنکشن میں اپنے پروجیکٹ کا آئی ڈی اور ٹوکن شامل کریں۔
+آخر میں importData.js کمانڈ چلائیں، اور آپ کا ڈیٹا سینٹی پر اپ لوڈ ہوجائے گا۔
+اسکیمہ سیٹ کرنے کا طریقہ:
+
+دی گئی اسکیمہ فائلز کو اپنے پروجیکٹ میں شامل کریں۔
+ان فائلز کو schema/types فولڈر میں پیسٹ کریں۔
+schema/types فولڈر کے اندر موجود index.js فائل میں دونوں اسکیمہ فائلز کو امپورٹ کریں۔
